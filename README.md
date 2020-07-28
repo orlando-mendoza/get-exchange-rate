@@ -1,6 +1,6 @@
 # get-exchange-rate
 
-FIXME: description
+Web Scraper writen in Clojure to extract BCN (Banco Central de Nicaragua) Exchange rates.
 
 ## Installation
 
